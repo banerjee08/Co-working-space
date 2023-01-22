@@ -13,6 +13,13 @@ body{
     /* border: 1px solid red; */
 }
 
+h1{
+    font-weight: 400;
+    font-size: 40px;
+    padding: 30px 25px;
+    margin: 0; 
+}
+
 ul{
     background-color: #282828;
     display: flex;
