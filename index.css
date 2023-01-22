@@ -10,7 +10,7 @@ body{
     font-size: 18px;
     font-weight: 700;
     color: whitesmoke;
-    /* border: 1px solid red; */
+    
 }
 
 h1{
@@ -50,8 +50,29 @@ ul{
     position: absolute;
     top: 0;
     left: 0;
-
 }
+
+.caption{
+    font-size: 20px;
+    display: flex;
+    gap: 20px;
+    padding: 25px 30px;
+}
+
+button{
+    border: none;
+    color: whitesmoke;
+    background-color:#cd6858;
+    padding: 10px 15px;
+    align-self: center;
+    font-weight: 700;
+}
+
+.item-img{
+    width: 100%;
+    display: block;
+}
+
 
 
 
